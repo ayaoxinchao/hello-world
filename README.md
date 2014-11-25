@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-just the first repository
+Hi humans!
+
+I like watching films and traveling
